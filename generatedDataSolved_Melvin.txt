@@ -1,0 +1,718 @@
+Problem Size: Small
+Target: 979
+Available coins: [17, 16, 19, 15]
+Solution found!
+Number of coins used: 52
+Execution time: 0.000564 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 683
+Available coins: [16, 15, 10, 4]
+Solution found!
+Number of coins used: 43
+Execution time: 0.000345 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 888
+Available coins: [24, 11, 2, 19]
+Solution found!
+Number of coins used: 37
+Execution time: 0.000451 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 906
+Available coins: [16, 6, 8, 12]
+Solution found!
+Number of coins used: 58
+Execution time: 0.000530 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 806
+Available coins: [13, 5, 5, 25]
+Solution found!
+Number of coins used: 34
+Execution time: 0.000417 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 833
+Available coins: [7, 25, 25, 12]
+Solution found!
+Number of coins used: 36
+Execution time: 0.000437 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 510
+Available coins: [2, 14, 17, 15]
+Solution found!
+Number of coins used: 30
+Execution time: 0.000269 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 917
+Available coins: [13, 18, 1, 3]
+Solution found!
+Number of coins used: 53
+Execution time: 0.000475 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 563
+Available coins: [17, 14, 8, 8]
+Solution found!
+Number of coins used: 34
+Execution time: 0.000271 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 438
+Available coins: [2, 1, 1, 12]
+Solution found!
+Number of coins used: 39
+Execution time: 0.000207 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 465
+Available coins: [9, 21, 5, 11]
+Solution found!
+Number of coins used: 25
+Execution time: 0.000233 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 527
+Available coins: [3, 8, 20, 11]
+Solution found!
+Number of coins used: 28
+Execution time: 0.000285 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 330
+Available coins: [9, 8, 9, 24]
+Solution found!
+Number of coins used: 15
+Execution time: 0.000156 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 358
+Available coins: [17, 16, 9, 23]
+Solution found!
+Number of coins used: 17
+Execution time: 0.000170 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 301
+Available coins: [2, 16, 3, 5]
+Solution found!
+Number of coins used: 21
+Execution time: 0.000137 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 950
+Available coins: [13, 5, 7, 25]
+Solution found!
+Number of coins used: 38
+Execution time: 0.000504 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 687
+Available coins: [7, 8, 15, 2]
+Solution found!
+Number of coins used: 48
+Execution time: 0.000365 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 880
+Available coins: [22, 11, 14, 25]
+Solution found!
+Number of coins used: 36
+Execution time: 0.000463 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 520
+Available coins: [6, 20, 12, 24]
+Solution found!
+Number of coins used: 22
+Execution time: 0.000303 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 363
+Available coins: [8, 16, 2, 2]
+No solution found for the given coins and target amount.
+Execution time: 0.000197 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 948
+Available coins: [21, 6, 14, 24]
+Solution found!
+Number of coins used: 40
+Execution time: 0.000497 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 414
+Available coins: [17, 15, 11, 24]
+Solution found!
+Number of coins used: 18
+Execution time: 0.000202 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 512
+Available coins: [10, 8, 15, 4]
+Solution found!
+Number of coins used: 36
+Execution time: 0.000256 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 783
+Available coins: [7, 5, 3, 24]
+Solution found!
+Number of coins used: 35
+Execution time: 0.000409 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 502
+Available coins: [17, 12, 6, 10]
+Solution found!
+Number of coins used: 31
+Execution time: 0.000239 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 705
+Available coins: [4, 17, 5, 8]
+Solution found!
+Number of coins used: 42
+Execution time: 0.000373 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 230
+Available coins: [15, 4, 18, 20]
+Solution found!
+Number of coins used: 12
+Execution time: 0.000102 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 779
+Available coins: [12, 18, 6, 18]
+No solution found for the given coins and target amount.
+Execution time: 0.000463 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 217
+Available coins: [5, 16, 20, 4]
+Solution found!
+Number of coins used: 12
+Execution time: 0.000095 seconds
+--------------------------------------------------
+
+Problem Size: Small
+Target: 895
+Available coins: [20, 25, 8, 5]
+Solution found!
+Number of coins used: 36
+Execution time: 0.000464 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 40891
+Available coins: [20, 12, 20, 19]
+Solution found!
+Number of coins used: 2045
+Execution time: 0.027915 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 13769
+Available coins: [22, 22, 19, 22]
+Solution found!
+Number of coins used: 626
+Execution time: 0.008335 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 19724
+Available coins: [8, 8, 1, 9]
+Solution found!
+Number of coins used: 2192
+Execution time: 0.011502 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 73188
+Available coins: [6, 10, 4, 15]
+Solution found!
+Number of coins used: 4881
+Execution time: 0.048308 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 12509
+Available coins: [15, 12, 23, 3]
+Solution found!
+Number of coins used: 546
+Execution time: 0.007523 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 76954
+Available coins: [7, 13, 6, 20]
+Solution found!
+Number of coins used: 3849
+Execution time: 0.052370 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 39711
+Available coins: [1, 17, 8, 1]
+Solution found!
+Number of coins used: 2337
+Execution time: 0.025137 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 24796
+Available coins: [17, 5, 20, 16]
+Solution found!
+Number of coins used: 1240
+Execution time: 0.015830 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 87513
+Available coins: [12, 1, 3, 19]
+Solution found!
+Number of coins used: 4608
+Execution time: 0.056853 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 90058
+Available coins: [1, 1, 10, 14]
+Solution found!
+Number of coins used: 6433
+Execution time: 0.061490 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 87282
+Available coins: [5, 4, 12, 7]
+Solution found!
+Number of coins used: 7275
+Execution time: 0.058040 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 61266
+Available coins: [20, 13, 21, 25]
+Solution found!
+Number of coins used: 2451
+Execution time: 0.039668 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 80153
+Available coins: [24, 14, 11, 15]
+Solution found!
+Number of coins used: 3341
+Execution time: 0.048451 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 30333
+Available coins: [11, 15, 25, 18]
+Solution found!
+Number of coins used: 1214
+Execution time: 0.020324 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 35930
+Available coins: [12, 10, 23, 15]
+Solution found!
+Number of coins used: 1563
+Execution time: 0.025181 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 79883
+Available coins: [17, 21, 7, 24]
+Solution found!
+Number of coins used: 3329
+Execution time: 0.054567 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 58702
+Available coins: [25, 14, 10, 3]
+Solution found!
+Number of coins used: 2350
+Execution time: 0.038959 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 98935
+Available coins: [13, 25, 19, 4]
+Solution found!
+Number of coins used: 3961
+Execution time: 0.062591 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 46940
+Available coins: [4, 16, 22, 1]
+Solution found!
+Number of coins used: 2135
+Execution time: 0.029426 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 46970
+Available coins: [5, 13, 5, 2]
+Solution found!
+Number of coins used: 3616
+Execution time: 0.029560 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 90614
+Available coins: [19, 7, 17, 4]
+Solution found!
+Number of coins used: 4770
+Execution time: 0.057706 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 30907
+Available coins: [17, 16, 3, 15]
+Solution found!
+Number of coins used: 1819
+Execution time: 0.018086 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 50909
+Available coins: [3, 21, 10, 6]
+Solution found!
+Number of coins used: 2426
+Execution time: 0.035329 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 65031
+Available coins: [13, 14, 14, 17]
+Solution found!
+Number of coins used: 3826
+Execution time: 0.041316 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 91484
+Available coins: [8, 3, 11, 19]
+Solution found!
+Number of coins used: 4819
+Execution time: 0.059402 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 48884
+Available coins: [19, 25, 19, 9]
+Solution found!
+Number of coins used: 1956
+Execution time: 0.028824 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 30940
+Available coins: [17, 22, 7, 3]
+Solution found!
+Number of coins used: 1409
+Execution time: 0.020303 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 39115
+Available coins: [25, 25, 4, 24]
+Solution found!
+Number of coins used: 1565
+Execution time: 0.026267 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 71384
+Available coins: [16, 6, 14, 8]
+Solution found!
+Number of coins used: 4462
+Execution time: 0.048779 seconds
+--------------------------------------------------
+
+Problem Size: Medium
+Target: 12640
+Available coins: [6, 12, 13, 18]
+Solution found!
+Number of coins used: 704
+Execution time: 0.007945 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 2496249
+Available coins: [11, 17, 8, 11]
+Solution found!
+Number of coins used: 146841
+Execution time: 1.703790 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 5771972
+Available coins: [23, 14, 2, 11]
+Solution found!
+Number of coins used: 250957
+Execution time: 3.774578 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 5953497
+Available coins: [1, 13, 19, 9]
+Solution found!
+Number of coins used: 313343
+Execution time: 3.744705 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 4813723
+Available coins: [9, 22, 10, 14]
+Solution found!
+Number of coins used: 218808
+Execution time: 2.975503 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 5953693
+Available coins: [25, 6, 21, 22]
+Solution found!
+Number of coins used: 238148
+Execution time: 3.394662 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 8013027
+Available coins: [19, 14, 3, 23]
+Solution found!
+Number of coins used: 348393
+Execution time: 5.170465 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 7809289
+Available coins: [10, 19, 23, 11]
+Solution found!
+Number of coins used: 339535
+Execution time: 5.436514 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 7469794
+Available coins: [19, 21, 8, 2]
+Solution found!
+Number of coins used: 355706
+Execution time: 4.985868 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 1519195
+Available coins: [10, 19, 10, 14]
+Solution found!
+Number of coins used: 79960
+Execution time: 1.027578 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 4245919
+Available coins: [21, 20, 16, 3]
+Solution found!
+Number of coins used: 202187
+Execution time: 2.568565 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 3800950
+Available coins: [12, 9, 25, 10]
+Solution found!
+Number of coins used: 152038
+Execution time: 2.563029 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 9719894
+Available coins: [13, 1, 15, 25]
+Solution found!
+Number of coins used: 388798
+Execution time: 6.174480 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 5364185
+Available coins: [18, 19, 24, 7]
+Solution found!
+Number of coins used: 223509
+Execution time: 3.337594 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 2515520
+Available coins: [12, 7, 3, 8]
+Solution found!
+Number of coins used: 209627
+Execution time: 1.514404 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 2300017
+Available coins: [23, 20, 12, 4]
+Solution found!
+Number of coins used: 100001
+Execution time: 1.434864 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 9962243
+Available coins: [5, 1, 19, 4]
+Solution found!
+Number of coins used: 524331
+Execution time: 6.145840 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 7809229
+Available coins: [9, 22, 21, 21]
+Solution found!
+Number of coins used: 354965
+Execution time: 4.697867 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 3365144
+Available coins: [8, 24, 25, 19]
+Solution found!
+Number of coins used: 134606
+Execution time: 2.071223 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 8313207
+Available coins: [9, 8, 22, 23]
+Solution found!
+Number of coins used: 361444
+Execution time: 4.951839 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 8939552
+Available coins: [22, 9, 23, 9]
+Solution found!
+Number of coins used: 388677
+Execution time: 4.985488 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 7509202
+Available coins: [5, 8, 7, 19]
+Solution found!
+Number of coins used: 395223
+Execution time: 4.703159 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 6861519
+Available coins: [8, 18, 6, 9]
+Solution found!
+Number of coins used: 381196
+Execution time: 4.563495 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 7746384
+Available coins: [14, 1, 19, 22]
+Solution found!
+Number of coins used: 352109
+Execution time: 4.969696 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 2282760
+Available coins: [16, 3, 7, 4]
+Solution found!
+Number of coins used: 142674
+Execution time: 1.460931 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 8906896
+Available coins: [4, 13, 20, 11]
+Solution found!
+Number of coins used: 445347
+Execution time: 5.978551 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 7634078
+Available coins: [20, 14, 11, 10]
+Solution found!
+Number of coins used: 381705
+Execution time: 4.766556 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 1898432
+Available coins: [6, 10, 14, 8]
+Solution found!
+Number of coins used: 135603
+Execution time: 1.198731 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 9052823
+Available coins: [10, 21, 22, 4]
+Solution found!
+Number of coins used: 411492
+Execution time: 6.154572 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 2522880
+Available coins: [15, 7, 3, 1]
+Solution found!
+Number of coins used: 168192
+Execution time: 1.563635 seconds
+--------------------------------------------------
+
+Problem Size: Large
+Target: 1607795
+Available coins: [13, 14, 14, 9]
+Solution found!
+Number of coins used: 114843
+Execution time: 1.004432 seconds
+--------------------------------------------------
+
